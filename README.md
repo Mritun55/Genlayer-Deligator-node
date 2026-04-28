@@ -4,6 +4,7 @@
 > **Author / লেখক / लेखक:** Mritunjoy  
 > **Network / নেটওয়ার্ক / नेटवर्क:** Testnet Asimov
 > **Join Our Telegram Get more Update:** https://t.me/vaivaicrypto
+
 > **Official Guide:** https://github.com/genlayerlabs/genlayer-cli/blob/main/docs/delegator-guide.md
 
 ---
