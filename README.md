@@ -3,7 +3,7 @@
 > 🇬🇧 **English** | 🇧🇩 **বাংলা** | 🇮🇳 **हिंदी**  
 > **Author / লেখক / लेखक:** Mritunjoy  
 > **Network / নেটওয়ার্ক / नेटवर्क:** Testnet Asimov
-> **Join Our Telegram Get more Update:** t.me/vaivaicrypto
+> **Join Our Telegram Get more Update:** https://t.me/vaivaicrypto
 > **Official Guide:** https://github.com/genlayerlabs/genlayer-cli/blob/main/docs/delegator-guide.md
 
 ---
@@ -85,7 +85,7 @@ genlayer account create --name mywallet
 
 ✅ **Success output:**
 ```
-Account 'mywallet' created at: /home/codespace/.genlayer/keystores/mritunjoy.json
+Account 'mywallet' created at: /home/codespace/.genlayer/keystores/mywallet.json
 ```
 
 > 🔑 🇬🇧 Remember the password you set — you will need it later!  
