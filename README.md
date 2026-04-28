@@ -136,7 +136,7 @@ rm /workspaces/Genlayer-Deligator-node/mywallet.json
 🇮🇳 अपना wallet address देखने के लिए यह चलाएं।
 
 ```bash
-cat /home/codespace/.genlayer/keystores/mritunjoy.json | grep -i address
+cat /home/codespace/.genlayer/keystores/mywallet.json | grep -i address
 ```
 
 ✅ **Output:**
